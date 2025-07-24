@@ -24,6 +24,17 @@ Install the dependencies:
 npm install
 ```
 
+### Libraries installed while developing
+
+Install the dependencies:
+
+```bash
+npm install -D tw-animate-css
+```
+```bash
+npm install clsx tailwind-merge pdfjs-dist zustand
+```
+
 ### Development
 
 Start the development server with HMR:
