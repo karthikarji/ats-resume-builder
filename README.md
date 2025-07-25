@@ -34,6 +34,9 @@ npm install -D tw-animate-css
 ```bash
 npm install clsx tailwind-merge pdfjs-dist zustand
 ```
+```bash
+added puter.js script in the root.tsx file
+```
 
 ### Development
 
